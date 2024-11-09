@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 836e7a1b5bea88c42b2da6b3d76ca7d5
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118383
+  packageName: 'Chunity: ChucK For Unity'
+  packageVersion: 2.2.0
+  assetPath: Assets/Chunity/Plugins/Android/x86_64/NOTE.txt
+  uploadId: 679880
