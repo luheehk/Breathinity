@@ -816,7 +816,20 @@ PlayerSettings:
   webGLWebAssemblyBigInt: 0
   webGLCloseOnQuit: 0
   webWasm2023: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Android: EXTOSC
+    EmbeddedLinux: EXTOSC
+    GameCoreXboxOne: EXTOSC
+    Nintendo Switch: EXTOSC
+    PS4: EXTOSC
+    PS5: EXTOSC
+    QNX: EXTOSC
+    ReservedCFE: EXTOSC
+    Standalone: EXTOSC
+    VisionOS: EXTOSC
+    WebGL: EXTOSC
+    XboxOne: EXTOSC
+    tvOS: EXTOSC
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
@@ -849,7 +862,7 @@ PlayerSettings:
   gcIncremental: 1
   gcWBarrierValidation: 0
   apiCompatibilityLevelPerPlatform: {}
-  editorAssembliesCompatibilityLevel: 1
+  editorAssembliesCompatibilityLevel: 2
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: moving objects
@@ -926,7 +939,7 @@ PlayerSettings:
   hmiCpuConfiguration: 
   hmiLogStartupTiming: 0
   qnxGraphicConfPath: 
-  apiCompatibilityLevel: 6
+  apiCompatibilityLevel: 3
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
