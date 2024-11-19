@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b6a4cbe0dcf4409e8aee6d70a32bf57
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118383
+  packageName: 'Chunity: ChucK For Unity'
+  packageVersion: 2.2.0
+  assetPath: Assets/WebGLTemplates/MinimalWithChuckLoaded/js/defer.js
+  uploadId: 679880
