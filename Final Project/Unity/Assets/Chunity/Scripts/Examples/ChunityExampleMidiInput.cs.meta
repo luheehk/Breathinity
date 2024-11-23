@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 31a8a6fa3aaf54c52aaa3c57eafecca9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118383
+  packageName: 'Chunity: ChucK For Unity'
+  packageVersion: 2.2.0
+  assetPath: Assets/Chunity/Scripts/Examples/ChunityExampleMidiInput.cs
+  uploadId: 679880
